@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Rajeev Sowamber
 
 # Username (this should match the folder name)
 authors:
@@ -10,21 +10,20 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Undergraduate Student
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: University of Toronto
+  url: "https://www.mie.utoronto.ca/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Driven in creating products for customers.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-
+- Product Development
+- UX Research
+- 
 education:
   courses:
   - course: PhD in Artificial Intelligence
