@@ -20,13 +20,11 @@ subtitle = ""
   
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
   filter_default = 0
-  [[portfolio]]
-  name = "Spotify UI/UX"
   
   
    [[content.filter_button]]
      name = "All"
-     tag = "Demo"
+     tag = "*"
   
   # [[content.filter_button]]
   #   name = "Deep Learning"
@@ -36,6 +34,10 @@ subtitle = ""
   #   name = "Other"
   #   tag = "Demo"
 
+[[portfolio]]
+  title = "Spotify UI/UX"
+  
+  
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "2"
