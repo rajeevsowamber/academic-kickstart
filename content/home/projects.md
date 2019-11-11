@@ -20,6 +20,9 @@ subtitle = ""
   
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
   filter_default = 0
+  [[portfolio]]
+  name = "Spotify UI/UX"
+  
   
    [[content.filter_button]]
      name = "All"
