@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   company_url = "https://www.ibm.com/ca-en"
   location = "Toronto, ON"
   date_start = "2018-05-01"
-  date_end = "2019-08"
+  date_end = "2019-08-01"
   description = """Consulted directly with enterprise clients using expert product knowledge to solve complex issues. Developed custom solutinos to improve efficiency of the team."""
 
 [[experience]]
@@ -32,7 +32,7 @@ date_format = "Jan 2006"
   company_url = "https://hatchery.engineering.utoronto.ca/"
   location = "Toronto, ON"
   date_start = "2017-05-01"
-  date_end = "2018-03"
+  date_end = "2018-03-01"
   description = """Developed a mobile application platform to connect the public to home chefs."""
   
   
@@ -42,7 +42,7 @@ date_format = "Jan 2006"
   company_url = "https://www.canada.ca/en/department-national-defence.html"
   location = "Borden, ON"
   date_start = "2016-06-01"
-  date_end = "2016-08"
+  date_end = "2016-08-01"
   description = """Mentored and educated the youth on their respective duties and responsibilities."""
 
 +++
