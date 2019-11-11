@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Undergraduate Student
+role: Industrial Engineering Student
 
 # Organizations/Affiliations
 organizations:
