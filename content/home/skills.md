@@ -1,4 +1,4 @@
-# +++
+ +++
 # A Skills section created with the Featurette widget.
 widget = "featurette"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
@@ -14,22 +14,22 @@ subtitle = ""
 # 
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
-# [[feature]]
+ [[feature]]
   icon = "r-project"
   icon_pack = "fab"
   name = "Leadership"
   description = "90%"
   
-# [[feature]]
+ [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
   description = "100%"  
   
-# [[feature]]
+ [[feature]]
   icon = "camera-retro"
   icon_pack = "fas"
   name = "Photography"
   description = "10%"
 
-# +++
++++
