@@ -27,8 +27,7 @@ interests:
 education:
   courses:
   - course: BASc in Industrial Engineering
-    institution: Certificate in Engineering Business
-    institution: University of Toronto
+    institution: Certificate in Engineering Business University of Toronto
     year: 2014-2020
     
 # Social/Academic Networking
