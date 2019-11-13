@@ -26,7 +26,8 @@ interests:
 - Client Solutions
 education:
   courses:
-  - course: BASc in Industrial Engineering, Certificate in Engineering Business
+  - course: BASc in Industrial Engineering
+    institution: Certificate in Engineering Business
     institution: University of Toronto
     year: 2014-2020
     
