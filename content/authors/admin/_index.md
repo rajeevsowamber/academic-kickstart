@@ -23,7 +23,7 @@ bio: Driven in creating products for customers.
 interests:
 - Product Development
 - UX Research
-- Client Solutions
+- Customer Centric Solutions
 education:
   courses:
   - course: BASc in Industrial Engineering
