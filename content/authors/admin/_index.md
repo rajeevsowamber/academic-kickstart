@@ -28,7 +28,7 @@ education:
   courses:
   - course: BASc in Industrial Engineering
     institution: University of Toronto
-    institution: Certificate in Engineering Business
+    certificate: Certificate in Engineering Business
     year: 2014-2020
     
 # Social/Academic Networking
