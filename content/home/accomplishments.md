@@ -38,7 +38,7 @@ date_format = "Jan 2006"
   date_end = ""
   description = "Completed introductory data science course using Python."
   
- #[[item]]
+ # [[item]]
   organization = "DataCamp"
   organization_url = "https://www.datacamp.com"
   title = "Object-Oriented Programming in R: S3 and R6 Course"
