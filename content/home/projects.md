@@ -13,6 +13,11 @@ subtitle = ""
   # Page type to display. E.g. project.
   page_type = "project"
   
+  # Content.
+  # Display content from the following folder.
+  # For example, `folder = "projects"` displays content from `content/projects/`.
+  folder = "projects" 
+  
   # Filter toolbar (optional).
   # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.
   # To show all items, set `tag` to "*".
@@ -23,9 +28,9 @@ subtitle = ""
   filter_default = 0
   
   
-   [[content.filter_button]]
-     name = "All"
-     tag = "*"
+  # [[content.filter_button]]
+  #   name = "All"
+  #   tag = "*"
   
   # [[content.filter_button]]
   #   name = "Deep Learning"
