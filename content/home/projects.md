@@ -29,8 +29,8 @@ subtitle = ""
   
   
    [[content.filter_button]]
-     name = "All"
-     tag = "*"
+     name = "Test Tag"
+     tag = "Testing"
   
   # [[content.filter_button]]
   #   name = "Deep Learning"
