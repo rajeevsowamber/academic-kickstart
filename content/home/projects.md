@@ -26,6 +26,9 @@ subtitle = ""
   
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
   filter_default = 0
+  [[portfolio]]
+  title = "my test project"
+  view = 2
   
   
    [[content.filter_button]]
