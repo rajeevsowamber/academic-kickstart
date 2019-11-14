@@ -10,7 +10,7 @@ summary = "Interveneable predictions of Hospital Acquired Infection via a hierar
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Test Tag"]
+tags = ["Testing"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
