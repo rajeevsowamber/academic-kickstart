@@ -1,6 +1,8 @@
 +++
 # A Projects section created with the Portfolio widget.
-widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
+widget = "project"  # See https://sourcethemes.com/academic/docs/page-builder/
+date = 2016-04-20T00:00:00
+
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 65  # Order that this section will appear.
@@ -26,14 +28,10 @@ subtitle = ""
   
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
   filter_default = 0
-  [[portfolio]]
-  title = "my test project"
-  view = 2
   
-  
-   [[content.filter_button]]
-     name = "Test Tag"
-     tag = "Testing"
+   # [[content.filter_button]]
+   #  name = "Test Tag"
+   #  tag = "Testing"
   
   # [[content.filter_button]]
   #   name = "Deep Learning"
