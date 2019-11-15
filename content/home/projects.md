@@ -1,6 +1,6 @@
 +++
 # A Projects section created with the Portfolio widget.
-widget = "project"  # See https://sourcethemes.com/academic/docs/page-builder/
+widget = "projects"  # See https://sourcethemes.com/academic/docs/page-builder/
 date = 2016-04-20T00:00:00
 
 headless = true  # This file represents a page section.
