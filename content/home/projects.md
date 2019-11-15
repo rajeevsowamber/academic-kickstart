@@ -3,7 +3,7 @@
 widget = "projects"  # See https://sourcethemes.com/academic/docs/page-builder/
 date = 2016-04-20T00:00:00
 
-headless = true  # This file represents a page section.
+# headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 65  # Order that this section will appear.
 
@@ -13,14 +13,14 @@ subtitle = ""
 
 # [content]
   # Page type to display. E.g. project.
-  page_type = "project"
+  # page_type = "project"
   
   # Content.
   # Display content from the following folder.
   # For example, `folder = "projects"` displays content from `content/projects/`.
 folder = "projects" 
 
-view = "1"
+view = 1
 
   # Filter toolbar (optional).
   # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.
@@ -47,9 +47,9 @@ view = "1"
  # title = "Spotify UI/UX"
   
   
-[design]
+# [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "2"
+  # columns = "2"
 
   # Toggle between the various page layout types.
   #   1 = List
@@ -59,9 +59,9 @@ view = "1"
  # view = 3
 
   # For Showcase view, flip alternate rows?
-  flip_alt_rows = true
+  flip_alt_rows = false
 
-[design.background]
+# [design.background]
   # Apply a background color, gradient, or image.
   #   Uncomment (by removing `#`) an option to apply it.
   #   Choose a light or dark text color by setting `text_color_light`.
