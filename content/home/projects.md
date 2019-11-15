@@ -1,33 +1,16 @@
 +++
 # A Projects section created with the Portfolio widget.
-widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
-date = 2016-04-20T00:00:00
+widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 65  # Order that this section will appear.
-  
+
 title = "Projects"
 subtitle = ""
 
-# [content]
+[content]
   # Page type to display. E.g. project.
-  # page_type = "project"
-  
-  # Content.
-  # Display content from the following folder.
-  # For example, `folder = "projects"` displays content from `content/projects/`.
-folder = "projects" 
-
-view = 1
-
-[[experience]]
-  title = "Technical Analyst Intern"
-  company = "IBM"
-  company_url = "https://www.ibm.com/ca-en"
-  location = "Toronto, ON"
-  date_start = "2018-05-01"
-  date_end = "2019-08-01"
-  description = """Consulted directly with enterprise clients using expert product knowledge to solve complex issues. Developed custom solutinos to improve efficiency of the team."""
+  page_type = "project"
   
   # Filter toolbar (optional).
   # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.
@@ -38,37 +21,33 @@ view = 1
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
   filter_default = 0
   
-   # [[content.filter_button]]
-   #  name = "Test Tag"
-   #  tag = "Testing"
+  [[content.filter_button]]
+    name = "All"
+    tag = "*"
   
-  # [[content.filter_button]]
-  #   name = "Deep Learning"
-  #   tag = "Deep Learning"
+  [[content.filter_button]]
+    name = "Deep Learning"
+    tag = "Deep Learning"
   
-  # [[content.filter_button]]
-  #   name = "Other"
-  #   tag = "Demo"
+  [[content.filter_button]]
+    name = "Other"
+    tag = "Demo"
 
-# [[portfolio]]
- # title = "Spotify UI/UX"
-  
-  
-# [design]
+[design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  # columns = "2"
+  columns = "2"
 
   # Toggle between the various page layout types.
   #   1 = List
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
- # view = 3
+  view = 3
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows = false
 
-# [design.background]
+[design.background]
   # Apply a background color, gradient, or image.
   #   Uncomment (by removing `#`) an option to apply it.
   #   Choose a light or dark text color by setting `text_color_light`.
@@ -95,4 +74,3 @@ view = 1
  # CSS class.
  css_class = ""
 +++
-
