@@ -1,13 +1,11 @@
 +++
 # A Projects section created with the Portfolio widget.
-widget = "projects"  # See https://sourcethemes.com/academic/docs/page-builder/
+widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 date = 2016-04-20T00:00:00
-
-# headless = true  # This file represents a page section.
+headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 65  # Order that this section will appear.
-
-
+  
 title = "Projects"
 subtitle = ""
 
@@ -22,6 +20,15 @@ folder = "projects"
 
 view = 1
 
+[[experience]]
+  title = "Technical Analyst Intern"
+  company = "IBM"
+  company_url = "https://www.ibm.com/ca-en"
+  location = "Toronto, ON"
+  date_start = "2018-05-01"
+  date_end = "2019-08-01"
+  description = """Consulted directly with enterprise clients using expert product knowledge to solve complex issues. Developed custom solutinos to improve efficiency of the team."""
+  
   # Filter toolbar (optional).
   # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.
   # To show all items, set `tag` to "*".
