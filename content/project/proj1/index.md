@@ -39,7 +39,6 @@ Volunteer Book is a mobile application intended for users to find volunteer oppo
 * DECIDE
 * Semi-Structured Interviews
 * SUS
----
 
 --- 
   {{< gallery album="album" >}}
