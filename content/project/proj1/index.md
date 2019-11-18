@@ -12,7 +12,7 @@ image:
   caption: 
   focal_point:
 
-links:
+# links:
 # - icon: twitter
   icon_pack: fab
   name: Follow
