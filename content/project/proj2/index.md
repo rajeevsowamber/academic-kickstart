@@ -1,5 +1,5 @@
 ---
-title: Spotify Redesign
+title: Spotify Radio Feature
 summary: Redesigning how to listen to your favourite artist radio.
 # tags:
 # - Deep Learning
