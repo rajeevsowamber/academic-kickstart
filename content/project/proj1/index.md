@@ -30,7 +30,7 @@ url_video: ""
 slides: example
 ---
 
-Volunteer Book is a mobile application intended for users to find volunteer opportunities in the Greater Toronto Area that will fit their interests and schedules. The users will also be able to create their own opportunities. Throughout this paper, the high-fidelity prototype of Volunteer Book will be presented, evaluated, and analyzed. The high-fidelity prototype was created using two programs: Figma, to create the interfaces; and InVision, to add functionality. User testing was conducted through interviews, questionnaires and surveys. The data collected from the user testing was then analyzed to recommend design changes for the high-fidelity prototype. 
+Volunteer Book is a mobile application intended for users to find volunteer opportunities in the Greater Toronto Area that will fit their interests and schedules. The users will also be able to create their own opportunities. A high-fidelity protype of Volunteer Book was created using Figma and InVision. Designs were created and supported using usability studies and user research.
 
 
 Tools and Frameworks Used:
@@ -39,3 +39,4 @@ Tools and Frameworks Used:
   - Semi-Structured Interviews
   - SUS
   
+  {{< gallery album="album" >}}
