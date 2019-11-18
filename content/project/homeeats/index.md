@@ -31,6 +31,7 @@ slides: example
 ---
 The HomeEats section outlined below.
 
-
+---
+image:
 image = "featured.jpg"
-
+---
