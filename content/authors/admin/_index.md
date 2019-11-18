@@ -23,7 +23,7 @@ bio: Driven in creating products for customers.
 interests:
 - Product Development
 - UX Research
-- Customer Centric Solutions
+- Analytics
 education:
   courses:
   - course: BASc in Industrial Engineering
@@ -69,4 +69,5 @@ user_groups:
 - Visitors
 ---
 
-Rajeev Sowamber is an undergraduate student studying Industrial Engineering at the University of Toronto. His diverse experience through entrepeneurship, technical client facing roles and leadership makes him an excellent well rounded individual. He currently helps lead his final year long design project with his team which aims to improve cancer treatment machine efficency.
+I am in my final year at the University of Toronto studying Industrial Engineering. My interests lie in client-based interactions and this enthusiasm is reflected in my ability to work with cross-functional teams to create interactive products which improve client benefit and satisfaction. My engineering knowledge has provided me with the tools to solve problems logically and creatively which I have applied in the entrepreneurial, technical and product development spheres.
+
