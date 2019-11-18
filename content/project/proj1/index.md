@@ -1,6 +1,6 @@
 ---
 title: Volunteer Book
-summary: A moblie application design to encourage volunteering.
+summary: A moblie application designed to encourage volunteering.
 # tags:
 # - Deep Learning
 date: "2016-04-27T00:00:00Z"
