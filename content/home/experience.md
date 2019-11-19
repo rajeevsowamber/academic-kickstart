@@ -24,11 +24,11 @@ date_format = "Jan 2006"
   location = "Toronto, ON"
   date_start = "2018-05-01"
   date_end = "2019-08-01"
-  description = """Consulted directly with enterprise clients using expert product knowledge to solve complex issues. Developed custom solutinos to improve efficiency of the team."""
+  description = """Consulted directly with enterprise clients using expert product knowledge to solve complex issues. Developed custom solutions to improve efficiency of the team."""
 
 [[experience]]
   title = "Co-Founder for HomeEats"
-  company = "UofT Entrepeneurship Hatchery"
+  company = "UofT Entrepreneurship Hatchery"
   company_url = "https://hatchery.engineering.utoronto.ca/"
   location = "Toronto, ON"
   date_start = "2017-05-01"
