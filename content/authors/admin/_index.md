@@ -21,9 +21,9 @@ organizations:
 bio: Driven in creating products for customers.
 
 interests:
-- Product Development
-- UX Research
-- Analytics
+- Product Management
+- Analytics and Solutions Implementation
+- UX/UI Design
 education:
   courses:
   - course: BASc in Industrial Engineering
