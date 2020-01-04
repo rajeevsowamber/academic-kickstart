@@ -30,7 +30,7 @@ url_video: ""
 slides: example
 ---
 
-In this design study for Spotify's mobile application, users experienced issues listening to their favourite artist radio. The main issue was duration to complete the task which was discovered after performing a Hierarchical Task Analysis. Design alternatives were created and a final low-fidelity prototype was designed to improve performance time.
+In this design study of Spotify's mobile application, users experienced issues listening to their favourite artist radio. The main issue was duration to complete the task which was discovered after performing a Hierarchical Task Analysis. Design alternatives were created and a final low-fidelity prototype was designed to improve performance time.
 
 **Tools and Frameworks Used:**
 ---
