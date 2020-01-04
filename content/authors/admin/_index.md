@@ -69,5 +69,5 @@ user_groups:
 - Visitors
 ---
 
-I am in my final year at the University of Toronto studying Industrial Engineering. My interests lie in client-based interactions and this enthusiasm is reflected in my ability to work with cross-functional teams to create interactive products which improve client benefit and satisfaction. My engineering knowledge has provided me with the tools to solve problems logically and creatively which I have applied in the entrepreneurial, technical and product development spheres.
+I am in my final year at the University of Toronto studying Industrial Engineering. My interests lie in client-based interactions and this enthusiasm is reflected in my ability to work with cross-functional teams to create interactive products that improve client benefit and satisfaction. My engineering knowledge has provided me with the tools to solve problems logically and creatively which I have applied in the entrepreneurial, technical and product development spheres.
 
