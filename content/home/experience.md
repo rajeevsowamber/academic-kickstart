@@ -28,6 +28,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Co-Founder for HomeEats"
+  title_url = "https://hatchery.engineering.utoronto.ca/"
   company = "UofT Entrepreneurship Hatchery"
   company_url = "https://hatchery.engineering.utoronto.ca/"
   location = "Toronto, ON"
