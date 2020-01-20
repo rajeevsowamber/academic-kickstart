@@ -27,14 +27,11 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
+#   To include an imaga, use the code: ![BeanFinder](static/BeanFinder.png)
 slides: example
 ---
 
 Volunteer Book is a mobile application intended for users to find volunteer opportunities in the Greater Toronto Area that will fit their interests and schedules. The users will also be able to create their own opportunities.
-
----
-# ![BeanFinder](static/BeanFinder.png)
----
 A high-fidelity prototype of Volunteer Book was created using Figma and InVision. Designs were created and supported using usability studies and user research.
 
 **Tools and Frameworks Used:**
