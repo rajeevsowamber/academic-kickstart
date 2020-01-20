@@ -30,7 +30,11 @@ url_video: ""
 slides: example
 ---
 
-Volunteer Book is a mobile application intended for users to find volunteer opportunities in the Greater Toronto Area that will fit their interests and schedules. The users will also be able to create their own opportunities. A high-fidelity prototype of Volunteer Book was created using Figma and InVision. Designs were created and supported using usability studies and user research.
+Volunteer Book is a mobile application intended for users to find volunteer opportunities in the Greater Toronto Area that will fit their interests and schedules. The users will also be able to create their own opportunities.
+
+![BeanFinder](/proj1/images/BeanFinder.png)
+
+A high-fidelity prototype of Volunteer Book was created using Figma and InVision. Designs were created and supported using usability studies and user research.
 
 **Tools and Frameworks Used:**
 ---
