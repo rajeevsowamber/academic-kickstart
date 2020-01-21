@@ -30,7 +30,17 @@ url_video: ""
 slides: example
 ---
 
-In this design study of Spotify's mobile application, users experienced issues listening to their favourite artist radio. The main issue was duration to complete the task which was discovered after performing a Hierarchical Task Analysis. Design alternatives were created and a final low-fidelity prototype was designed to improve performance time.
+# The Story
+---
+One night while using Spotify's mobile application, I was interested in finding similar artisits to one of my most favourited artists. The issue was playing that artists radio was quite difficult. This motivated me to enhance the user experience and make it easier to listen to my favourite artist's radio.
+
+# Task Analysis
+---
+To begin, a Hierarchical Task Analysis (HTA) was conducted where experienced Spotify users conducting a usability test. The HTAs that were created decompose the Spotify interface into its core functionalities, allowing further analysis of the individual subtasks involved with playing my favourite artists radio.
+
+![HTA](static/hta.png)
+
+The HTA assisted in decomposing a large task into subtasks which was then analyzed in chunks.
 
 **Tools and Frameworks Used:**
 ---
