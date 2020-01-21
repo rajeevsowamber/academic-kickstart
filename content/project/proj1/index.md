@@ -47,12 +47,13 @@ After outlining the requirements of the projects, I continued onto creating init
 ![Preferences](static/lowfipost.png)
 
 **Low Fidelity Wireframes**
+
 Using Balsamiq, low fidelity wireframes were created to have a visual and layout of how the mobile application may look. 
 I decided to include an "Add Oportunity" button to the top navigation bar so it was easily accessible for users to create positings with minimal effort. The usage of an icon rather than words helped aid user recognition.
 
 Clicking one of the search results will expand the post on the same page and will provide the user with a short description of the volunteer opportunity. This was an important feature to include to provide the user with more information on the posting efficiently, rather than being redirected to a different page each click. This would allow the user to scroll through postings since they can expand and collapse each posting with one click.
 
-{{< gallery album="albumlofi" >}}
+![Wireframe](static/wireframe.png)
 
 **High Fidelity Prototype**
 
