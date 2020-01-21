@@ -57,6 +57,9 @@ Clicking one of the search results will expand the post on the same page and wil
 
 **High Fidelity Prototype**
 
+  {{< gallery album="album" >}}
+  
+ 
 # Conclusion
 **Tools and Frameworks Used:**
 * Figma
@@ -66,5 +69,4 @@ Clicking one of the search results will expand the post on the same page and wil
 * SUS
 
 --- 
-  {{< gallery album="album" >}}
 
