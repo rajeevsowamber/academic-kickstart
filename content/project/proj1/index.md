@@ -30,10 +30,32 @@ url_video: ""
 #   To include an imaga, use the code: ![BeanFinder](static/BeanFinder.png)
 slides: example
 ---
+# The Story
+---
+The theme of social improvement is what my peers and I pondered one afternoon. We found that there was a difficulty in connecting individuals to volunteer positions in their area which catered towards their personal interests and skills. Thus, we began our design journey to create an effective yet functional mobile application to encourage individuals to volunteer using Volunteer Book.
 
-Volunteer Book is a mobile application intended for users to find volunteer opportunities in the Greater Toronto Area that will fit their interests and schedules. The users will also be able to create their own opportunities.
-A high-fidelity prototype of Volunteer Book was created using Figma and InVision. Designs were created and supported using usability studies and user research.
+---
 
+# Requirements
+The first step in our design process was to outline the requirements of the mobile application which were categorized into three types: Functional, Data and Environmental requirements. The functional requirements were fundamental and focused on the goal of the mobile application, for example the user should be able to filter volunteer opportunities based on user preferences. Data requirements specified the data needed to be stored in the volunteer application such as a user’s profile information. Finally, environmental requirements show the circumstances in which the mobile application can operate, for example the user must be connected to Wi-Fi and/or cell phone reception.
+
+---
+
+# Design
+---
+**Initial Sketches**
+After outlining the requirements of the projects, I continued onto creating initial sketches of the mobile application. To initiate a volunteer opportunity, the user would be able to filter their results and find a post which matches their preference, time availability and location.
+
+![Preferences](static/lowfipref.png)
+![Preferences](static/lowfipost.png)
+
+---
+**Low Fidelity Wireframes**
+
+
+**High Fidelity Prototype**
+
+# Conclusion
 **Tools and Frameworks Used:**
 ---
 * Figma
