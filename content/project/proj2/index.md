@@ -48,7 +48,3 @@ The HTA assisted in decomposing a large task into subtasks which was then analyz
 * Hierarchical Task Analysis
 * Brainstorming
 * Pencil + Paper
-
---- 
-  {{< gallery album="album" >}}
-
