@@ -43,6 +43,7 @@ Creation of a usability protocol followed a DECIDE framework which provided a gu
 # Design
 ---
 **Initial Sketches**
+
 After outlining the requirements of the projects, I continued onto creating initial sketches of the mobile application. To initiate a volunteer opportunity, the user would be able to filter their results and find a post which matches their preference, time availability and location.
 
 ![Preferences](static/lowfipref.png)
