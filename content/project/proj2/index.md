@@ -38,7 +38,7 @@ One night while using Spotify's mobile application, I was interested in finding 
 ---
 To begin, a Hierarchical Task Analysis (HTA) was conducted where experienced Spotify users conducting a usability test. The HTAs that were created decompose the Spotify interface into its core functionalities, allowing further analysis of the individual subtasks involved with playing my favourite artists radio.
 
-![HTA](static/hta.png)
+![HTA](album/hta.png)
 
 The HTA assisted in decomposing a large task into subtasks which was then analyzed in chunks.
 
@@ -46,7 +46,7 @@ The HTA assisted in decomposing a large task into subtasks which was then analyz
 ---
 The initial design of the mobile application was made using pencil and paper. One of the major changes was to add an artist favourite radio button under the follow section of the application. This would make it easy for users to favourite their artist radio. In the sidebar, the same icon is used for consistency and so artists radio is easily accessible.
 
-![V1](static/v1.jpg)
+![V1](album/v1.jpg)
 
 **Tools and Frameworks Used:**
 ---
