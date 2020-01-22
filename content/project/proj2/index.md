@@ -42,6 +42,12 @@ To begin, a Hierarchical Task Analysis (HTA) was conducted where experienced Spo
 
 The HTA assisted in decomposing a large task into subtasks which was then analyzed in chunks.
 
+# Design Sketch
+---
+The initial design of the mobile application was made using pencil and paper. One of the major changes was to add an artist favourite radio button under the follow section of the application. This would make it easy for users to favourite their artist radio. In the sidebar, the same icon is used for consistency and so artists radio is easily accessible.
+
+![V1](static/v1.jpg)
+
 **Tools and Frameworks Used:**
 ---
 * Usability Testing
